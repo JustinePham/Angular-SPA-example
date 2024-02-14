@@ -6,4 +6,9 @@ Frameworks:
 Bulma: https://bulma.io/
 Angular: https://angular.io/
 
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/edit/angular-live-compiler-x9yjtf)
+
+
+<!-- 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/JustinePham/Angular-SPA-example)
+-->
